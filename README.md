@@ -2,7 +2,7 @@
 - 🔭 I'm a Computer Engineering student at UFRGS (Federal University of Rio Grande do Sul) and Android Developer/Researcher at Netmetric.
 - 🌱 I’m currently studying about Software Defined Networks (SDNs)
 - :star2: I've coursed Technical Integrated High School in Computing. Therefore, when I was young as 14 years old I discovered and got fascinated about programming and software development.
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: wmespindula@inf.ufrgs.br
 
 <!--
