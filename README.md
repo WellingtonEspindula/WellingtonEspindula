@@ -1,6 +1,5 @@
 ### Hi there, I'm Wellington Espindula
-- 🔭 I'm a Computer Engineering Undergraduate Student at UFRGS (Federal University of Rio Grande do Sul) and a Rotation Program Intern at SAP.
-- 🌱 I’m currently studying Software Defined Networks (SDNs)
+- 🔭 I'm a Information Systems Engineering Student at Grenoble INP - ENSIMAG.
 - :star2: I've coursed Technical Integrated High School in Computing. Therefore, when I was young as 14 years old I discovered and got fascinated about programming, electronics, and software development.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: wmespindula@inf.ufrgs.br
