@@ -2,7 +2,7 @@
 - 🔭 I'm an M2 Cybersecurity Student at Grenoble INP - ENSIMAG.
 - :star2: I've coursed Technical Integrated High School in Computing. Therefore, when I was young as 14 years old I discovered and got fascinated about programming, network and software security, electronics, and software development.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: wmespindula@inf.ufrgs.br
+- 📫 How to reach me: wmespindula [at] inf.ufrgs.br
 
 <!--
 **WellingtonEspindula/WellingtonEspindula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
